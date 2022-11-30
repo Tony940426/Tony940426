@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
 <p align="center"> <b> My name is Tony</b></p>
-<p> A decade of experience working in the financ sector and now looking to make the big switch into tech! </p>
+<p> A decade of experience working in the finance sector and now looking to make the big switch into tech! </p>
 
 <div align "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tony940426&show_icons=true&locale=en&layout=compact" alt="tony940426" />
